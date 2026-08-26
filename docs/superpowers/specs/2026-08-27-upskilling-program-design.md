@@ -66,6 +66,28 @@ One resource per topic; finish it before moving on. Udemy links drift in price/c
 
 Deliverable: 12 practice programs green, `strict: true`, zero `any`, `/shared/schemas.ts` (Zod schemas for `Item`, `Renewal`, `User`, `Household`).
 
+**Daily TypeScript push roadmap.** One committed deliverable per working day on the learner's `*/foundations` branch (commit daily even if small — cadence is scored). ~15 working days (~3 weeks), running alongside the Linux track inside Phase 1. Files live in `/practice`.
+
+| Day | Push (file) | Teaches |
+|---|---|---|
+| 1 | setup + `01-greet.ts` | `tsconfig` `strict:true` + `tsx`; typed params/returns, template literals, `const`/`let` |
+| 2 | `02-fizzbuzz.ts` | loops, conditionals, `%` |
+| 3 | `03-dates.ts` | `daysUntil(date)`, `addMonths()` — real project code |
+| 4 | `04-arrays.ts` | `map`/`filter`/`reduce`/`find`/`sort` over objects |
+| 5 | `05-objects.ts` | `interface` vs `type`, optional `?`, `readonly`, nesting |
+| 6 | `06-unions.ts` | literal unions, `RenewalType`, narrowing with `if` |
+| 7 | `07-discriminated.ts` | discriminated unions + `switch` with `never` exhaustiveness |
+| 8 | `08-money.ts` | integer minor units, `formatMoney()`, `parseMoney()` |
+| 9 | `09-generics.ts` | `Result<T,E>`, `paginate<T>(items, page, size)` |
+| 10 | `10-async.ts` | promises, `async/await`, `Promise.all`, try/catch, real `fetch` |
+| 11 | `11-zod.ts` | parsing untrusted JSON, `z.infer<>` |
+| 12 | `12-modules.ts` | `import`/`export`, folder structure, barrel files |
+| 13 | `/shared/schemas.ts` (part 1) | Zod schemas: `User`, `Item` |
+| 14 | `/shared/schemas.ts` (part 2) | Zod schemas: `Renewal`, `Household` + `z.infer` types |
+| 15 | strict-pass refactor | remove every `any`, enable stricter flags, self-review before the gate |
+
+Banned in reviews (a `code-review` comment if reached for): `any`, `enum` (use literal unions), `as` casting, decorators, namespaces.
+
 ### 5.2 Linux
 
 **Helena — intermediate:** [Linux Journey](https://linuxjourney.com/) (structured) + [The Linux Command Line (Shotts, free)](https://linuxcommand.org/tlcl.php) as reference. Navigation, files, pipes/grep, permissions, processes, ports/`lsof`, `apt`, nano — surfacing from running the stack.
@@ -134,7 +156,7 @@ docs/
 
 ## 9. Weekly evaluation mechanism
 
-- **Scheduled remote agent (default):** a weekly cron routine running on Anthropic infrastructure (laptop can be off). It pulls the repo, reads each learner's branch, scores against §7, and commits the tracker + README scoreboard update to `main` and updates the board.
+- **Scheduled remote agent (default):** a weekly cron routine running on Anthropic infrastructure (laptop can be off), firing **Sundays 11:00 AM IST (05:30 UTC)**. It pulls the repo, reads each learner's branch, scores against §7, and commits the tracker + README scoreboard update to `main` and updates the board.
 - **Manual trigger:** run on demand any time.
 - **Constraint:** headless runs use git/GitHub over a stored token; anything needing an interactive local login is out of scope for the automated run.
 
@@ -146,7 +168,7 @@ Reminder app for things that expire (insurance, warranties, AMCs, doc expiry, su
 
 Document/bill upload, OCR, mobile app, push notifications, multi-currency, public share links, tags, attachments, dark mode, i18n. The MCP/AI layer is in-scope for Thomas's track but built only after the core app validates.
 
-## 12. Open follow-ups
+## 12. Resolved logistics
 
-- Verify write access to the "Version 2.0" board on first insert (it is Helena's user project; coach may need to be added as a project collaborator).
-- Confirm exact weekly cron day/time for the scheduled evaluation.
+- **Board write access:** confirmed working — the coach's `gh` token (scope `project`) can create/delete items on "Version 2.0" (verified 2026-08-27).
+- **Cron schedule:** weekly evaluation fires **Sundays 11:00 AM IST (05:30 UTC)**.
