@@ -39,17 +39,17 @@ The original "she types every line, you never take the keyboard" rule is now **r
 
 ## 4. Program structure (Option A — strict gated)
 
-Timeline assumes **~6 hrs/week per learner**.
+Timeline assumes **~8 hrs/week per learner** (~108–120 hrs total). Foundations is deliberately *not* compressed at the same rate — TS and advanced Linux need soak time, protected by the validation gate — so the extra weekly hours are absorbed mostly by the build and specialty phases.
 
 | Phase | Focus | Branches | Gate to advance |
 |---|---|---|---|
 | **0 · Setup** (~1 wk) | Environment, accounts, repo/branch onboarding; Git-by-doing begins | `main` seeded by coach | Both can clone, branch, push, open a PR |
-| **1 · Foundations** (~5–6 wks) | TS roadmap (structured) + Linux (Helena intermediate/embedded, Thomas advanced/drills); Git continues by doing | `helena/foundations`, `thomas/foundations` | **Validated:** ≥ 70% on foundations assessment (see §7) |
-| **2 · Build Renewly** (~6–7 wks) | Helena: DB + API heavy lifting. Thomas: assist on simple API/DB + start MCP scaffolding vs stubs. UI collaborative | `feat/*` → `dev` | Skeleton + core CRUD working; PRs merged via review |
-| **3 · Specialties** (~4 wks) | Helena: Playwright/TS suite (unit + integration + E2E). Thomas: MCP/AI layer over real `/reports/*` | `feat/*` → `dev` | Test suite green; MCP tools callable end-to-end |
-| **4 · Ship** (~2 wks) | CI/CD, deploy, docs; interview prep (Helena) | `dev` → `main` | Live URL + README + final scoreboard |
+| **1 · Foundations** (~5 wks) | TS roadmap (structured) + Linux (Helena intermediate/embedded, Thomas advanced/drills); Git continues by doing | `helena/foundations`, `thomas/foundations` | **Validated:** ≥ 70% on foundations assessment (see §7) |
+| **2 · Build Renewly** (~4.5–5.5 wks) | Helena: DB + API heavy lifting. Thomas: assist on simple API/DB + start MCP scaffolding vs stubs. UI collaborative | `feat/*` → `dev` | Skeleton + core CRUD working; PRs merged via review |
+| **3 · Specialties** (~3 wks) | Helena: Playwright/TS suite (unit + integration + E2E). Thomas: MCP/AI layer over real `/reports/*` | `feat/*` → `dev` | Test suite green; MCP tools callable end-to-end |
+| **4 · Ship** (~1.5 wks) | CI/CD, deploy, docs; interview prep (Helena) | `dev` → `main` | Live URL + README + final scoreboard |
 
-**Total ≈ 18–20 weeks (~4.5 months).** If behind, cut features — never cut the testing phase.
+**Total ≈ 14–15 weeks (~3.5 months).** If behind, cut features — never cut the testing phase.
 
 ## 5. Curriculum + reference materials
 
