@@ -15,8 +15,15 @@ One dated entry per day. Commit daily (even two lines) — keeps the streak and 
 ---
 
 ### 2026-08-28 (Day 0 · setup)
-- Hours: —
+- Hours: 0
 - Covered: registered for exam / picked Day-1 mock / skimmed blueprint
-- Mock score: —
-- Weak areas noticed: —
+- Mock score: NA
+- Weak areas noticed: NA
 - Tomorrow's focus: **cold diagnostic mock** — fill `mock-01-diagnostic.md`, send Thomas the breakdown
+
+### 2026-08-29 (Day 1 · kickstart)
+- Hours: 
+- Covered: 
+- Mock score: 
+- Weak areas noticed: 
+- Tomorrow's focus: 
