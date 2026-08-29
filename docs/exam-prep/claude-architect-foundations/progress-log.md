@@ -22,8 +22,15 @@ One dated entry per day. Commit daily (even two lines) — keeps the streak and 
 - Tomorrow's focus: **cold diagnostic mock** — fill `mock-01-diagnostic.md`, send Thomas the breakdown
 
 ### 2026-08-29 (Day 1 · kickstart)
-- Hours: 
-- Covered: 
-- Mock score: 
-- Weak areas noticed: 
-- Tomorrow's focus: 
+- Hours: .5
+- Covered: Artifacts, Skills
+- Mock score: Yet to attend
+- Weak areas noticed: Prompting
+- Tomorrow's focus: Introduction to MCP, Subagent
+
+### 2026-08-30 (Day 2 · focus)
+- Hours:
+- Covered:
+- Mock score:
+- Weak areas noticed:
+- Tomorrow's focus:
