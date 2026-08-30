@@ -29,7 +29,14 @@ One dated entry per day. Commit daily (even two lines) — keeps the streak and 
 - Tomorrow's focus: Introduction to MCP, Subagent
 
 ### 2026-08-30 (Day 2 · focus)
-- Hours:
+- Hours: 4
+- Covered: Claude Code Configuration and Workflow, Subagent, MCP, Skills, CLAUDE.md
+- Mock score: 653
+- Weak areas noticed: Prompt Engineering and Structured Output
+- Tomorrow's focus: Prompt Engineering and Structured Output
+
+### 2026-08-31 (Day 2 · consistency)
+- Hours: 
 - Covered:
 - Mock score:
 - Weak areas noticed:
