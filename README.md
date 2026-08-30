@@ -37,5 +37,5 @@ _Updated weekly (Sundays 11:00 IST). Full history in [the scoreboard](docs/track
 
 | Learner | Phase | Latest week | Score | Status |
 |---|---|---|---|---|
-| Helena | 0 · Setup | — | — | not started |
-| Thomas | 0 · Setup | — | — | not started |
+| Helena | 0 · Setup | 2026-08-30 | 20% | 🔴 intervene — no personal commits yet; onboarding check-in needed |
+| Thomas | 0 · Setup | 2026-08-30 | 48% | 🔴 intervene — program infra done; Phase 1 daily exercises must begin now |
