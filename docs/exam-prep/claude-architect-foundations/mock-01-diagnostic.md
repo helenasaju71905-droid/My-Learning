@@ -4,20 +4,20 @@ Take this **before studying**, **timed**, **no aids** (no Google, no Claude). Fl
 
 ## Overall
 
-- **Mock source / link:** _______
-- **Score:** ___ / ___  (___ %)
-- **Time used:** ___ / 120 min
-- **Overall feeling (1–5 confident):** ___
+- **Mock source / link:** https://certificationpractice.com/practice-exams/anthropic-claude-certified-architect-foundations
+- **Score:** 653/1000  (64 %)
+- **Time used:** 45 / 56 min
+- **Overall feeling (1–5 confident):** 3
 
 ## Per-domain result (fill if the mock reports it)
 
 | # | Domain | Weight | Correct / Total | % |
 |---|---|---|---|---|
-| 1 | Agentic Architecture & Orchestration | 27% | / | |
-| 2 | Claude Code Configuration & Workflows | 20% | / | |
-| 3 | Prompt Engineering & Structured Output | 20% | / | |
-| 4 | Tool Design & MCP Integration | 18% | / | |
-| 5 | Context Management & Reliability | 15% | / | |
+| 1 | Agentic Architecture & Orchestration | 27% | 5/6 |83% |
+| 2 | Claude Code Configuration & Workflows | 20% | 3/6 |50% |
+| 3 | Prompt Engineering & Structured Output | 20% | 3/6 |50% |
+| 4 | Tool Design & MCP Integration | 18% | 3/5 |60% |
+| 5 | Context Management & Reliability | 15% | 4/5 |80% |
 
 ## Per-question log (every WRONG or GUESSED question)
 
