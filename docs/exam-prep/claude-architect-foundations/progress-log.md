@@ -35,9 +35,16 @@ One dated entry per day. Commit daily (even two lines) — keeps the streak and 
 - Weak areas noticed: Prompt Engineering and Structured Output
 - Tomorrow's focus: Prompt Engineering and Structured Output
 
-### 2026-08-31 (Day 2 · consistency)
-- Hours: 
-- Covered:
-- Mock score:
-- Weak areas noticed:
-- Tomorrow's focus:
+### 2026-08-31 (Day 3 · consistency)
+- Hours: 3
+- Covered: Prompt Engineering and Structured Output
+- Mock score: 794
+- Weak areas noticed: 
+- Tomorrow's focus: Agentic Architecture
+
+### 2026-09-01 (Day 4 · keep up)
+- Hours: 3
+- Covered: Agentic Architecture
+- Mock score: 
+- Weak areas noticed: 
+- Tomorrow's focus: Context Management
