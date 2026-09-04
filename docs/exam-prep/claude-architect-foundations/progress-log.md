@@ -48,3 +48,31 @@ One dated entry per day. Commit daily (even two lines) — keeps the streak and 
 - Mock score: 
 - Weak areas noticed: 
 - Tomorrow's focus: Context Management
+
+### 2026-09-02 (Day 5 · try harder)
+- Hours: 1
+- Covered: Agentic Architecture
+- Mock score: 
+- Weak areas noticed: Session State and Resumption
+- Tomorrow's focus: Prompt Engineering and Structured Output
+
+### 2026-09-03 (Day 6 · do it)
+- Hours: 2
+- Covered: Prompt Engineering and Structured Output
+- Mock score: 10/10
+- Weak areas noticed: Multi-Instance and Multi-Pass Review
+- Tomorrow's focus: Context Management & Reliability
+
+### 2026-09-04 (Day 7 · you can)
+- Hours: 3
+- Covered: Context Management & Reliability
+- Mock score: 857/1000
+- Weak areas noticed: Claude code configuration and Workflows
+- Tomorrow's focus: Tool Design and MCP integration
+
+### 2026-09-05 (Day 8 · just one morw)
+- Hours: 
+- Covered: 
+- Mock score: 
+- Weak areas noticed: 
+- Tomorrow's focus: 
