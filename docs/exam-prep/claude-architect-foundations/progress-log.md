@@ -70,7 +70,7 @@ One dated entry per day. Commit daily (even two lines) — keeps the streak and 
 - Weak areas noticed: Claude code configuration and Workflows
 - Tomorrow's focus: Tool Design and MCP integration
 
-### 2026-09-05 (Day 8 · just one morw)
+### 2026-09-05 (Day 8 · just one more)
 - Hours: 5
 - Covered: Tool Design and MCP integration
 - Mock score: 862/1000
@@ -80,5 +80,7 @@ One dated entry per day. Commit daily (even two lines) — keeps the streak and 
 ### 2026-09-06 (Day 9 · exam day)
 - Hours: 6
 - Covered: Revised all the topics
-- Mock score: 772/1000
+- Exam score: 772/1000
 - Tomorrow's focus: Start studying Playwright
+
+Mission Accomplished - Claude Certified
