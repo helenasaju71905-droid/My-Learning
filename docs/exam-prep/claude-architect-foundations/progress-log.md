@@ -84,3 +84,5 @@ One dated entry per day. Commit daily (even two lines) — keeps the streak and 
 - Tomorrow's focus: Start studying Playwright
 
 Mission Accomplished - Claude Certified
+Waiting for the Certificate
+Going to start studying Playwright
